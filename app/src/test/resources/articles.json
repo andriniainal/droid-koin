@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2026,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Bitcoinist"
+      },
+      "author": "Nick Chong",
+      "title": "A Crypto Trader Thinks Ethereum Could Plunge Towards $300 as Momentum Slows",
+      "description": "After Bitcoin and Ethereum attempted to surge past $12,000 and $400, respectively, the momentum has tapered off. Over the past day, the leading cryptocurrencies have plunged lower despite a weakening U.S. dollar. As of the time of this article’s writing, ETH …",
+      "url": "https://bitcoinist.com/ethereum-could-plunge-towards-300/",
+      "urlToImage": "https://bitcoinist.com/wp-content/uploads/2020/07/Depositphotos_31420279_l-2015-1920x1280.jpg",
+      "publishedAt": "2020-08-12T01:00:46Z",
+      "content": "<ul><li>After Bitcoin and Ethereum attempted to surge past $12,000 and $400, respectively, the momentum has tapered off.</li><li>Over the past day, the leading cryptocurrencies have plunged lower des… [+2963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool Australia"
+      },
+      "author": "Aaron Teboneras",
+      "title": "Is the Afterpay share price a buy?",
+      "description": "Afterpay Ltd (ASX: APT) shareholders have been on a wild ride in 2020. But is the Afterpay share price a buy today?\nThe post Is the Afterpay share price a buy? appeared first on Motley Fool Australia.",
+      "url": "https://www.fool.com.au/2020/08/12/is-the-afterpay-share-price-a-buy-11/",
+      "urlToImage": "https://www.fool.com.au/wp-content/uploads/2020/03/questioning-thoughts-16.9.jpg",
+      "publishedAt": "2020-08-12T00:15:32Z",
+      "content": "What a ride it has been for Afterpay Ltd(ASX: APT) shareholders in 2020, with the Afterpay share price plummeting to lows of $8.01 in March, then rebounding to $70.18 per share at yesterday’s close. … [+3847 chars]"
+    }
+  ]
+}
